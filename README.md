@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Abdulmalik Abiola, known as Byte-Sultan
+# Hey there! 👋 I'm Abdulmalik Abiola
 
 I'm a passionate coder and tech enthusiast based in Ilorin, Nigeria. Currently pursuing a degree in biochemistry, I find joy in blending the worlds of science and technology.
 
