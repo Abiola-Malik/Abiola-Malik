@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Abdulmalik Abiola
+# Hey there! 👋 I'm Abiola Malik
 
 I'm a passionate coder and tech enthusiast based in Ilorin, Nigeria. Currently pursuing a degree in biochemistry, I find joy in blending the worlds of science and technology.
 
